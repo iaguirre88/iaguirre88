@@ -11,7 +11,7 @@ people excited about this language.
 
 ## ElixirConf UY
 
-***Building LiveView From Scratch***
+### Building LiveView From Scratch
 
 🔗 [https://elixirconf.uy/](https://elixirconf.uy/)
 
@@ -21,7 +21,7 @@ people excited about this language.
 
 ## The Big Elixir
 
-***Building LiveView From Scratch***
+### Building LiveView From Scratch
 
 🔗 [https://thebigelixir.com/](https://thebigelixir.com/)
 
