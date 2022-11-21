@@ -52,3 +52,7 @@ computers.
 
 🔗
 [https://github.com/wyeworks/elixir_console](https://github.com/wyeworks/elixir_console)
+
+# Articles
+* [Adding E2E tests to an Elixir library](https://www.wyeworks.com/blog/2022/04/21/adding-e2e-tests-to-an-elixir-library/)
+
