@@ -1,16 +1,46 @@
-### Hi there 👋
 
-<!--
-**iaguirre88/iaguirre88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+I'm a software developer from Uruguay. I first heard of Elixir at WyeWorks and I
+immediately fell in love with the declarative approach of functional programming
+and its simple concurrence model.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since then, I've been trying to learn as much about Elixir as possible and make
+people excited about this language.
+
+# Conferences
+
+## ElixirConf UY
+
+***Building LiveView From Scratch***
+
+🔗 [https://elixirconf.uy/](https://elixirconf.uy/)
+
+📅 November 2022
+
+📍 Montevideo, Uruguay
+
+## The Big Elixir
+
+***Building LiveView From Scratch***
+
+🔗 [https://thebigelixir.com/](https://thebigelixir.com/)
+
+📹 [https://www.youtube.com/watch?v=yEbXsQhxzoU](https://www.youtube.com/watch?v=yEbXsQhxzoU)
+(English)
+
+📅 March 2022
+
+📍 New Orleans, USA
+
+# Open Source
+
+## Boom Notifier
+
+This package allows a Phoenix application to send notifications whenever an
+exception is raised. By default, it includes an email and a webhook notifier,
+but it also supports custom ones.
+
+🔗 [https://github.com/wyeworks/boom](https://github.com/wyeworks/boom)
+
+📦 [https://hex.pm/packages/boom_notifier](https://hex.pm/packages/boom_notifier)
