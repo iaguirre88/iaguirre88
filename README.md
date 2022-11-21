@@ -1,4 +1,3 @@
-
 # About me
 
 I'm a software developer from Uruguay. I first heard of Elixir at WyeWorks and I
@@ -44,3 +43,12 @@ but it also supports custom ones.
 🔗 [https://github.com/wyeworks/boom](https://github.com/wyeworks/boom)
 
 📦 [https://hex.pm/packages/boom_notifier](https://hex.pm/packages/boom_notifier)
+
+## Elixir Web Console
+
+The Elixir Web Console is a virtual place where people can try the Elixir
+language without the need to leave the browser or installing it on their
+computers.
+
+🔗
+[https://github.com/wyeworks/elixir_console](https://github.com/wyeworks/elixir_console)
