@@ -53,6 +53,14 @@ computers.
 🔗
 [https://github.com/wyeworks/elixir_console](https://github.com/wyeworks/elixir_console)
 
+## Other contributions
+* https://github.com/elixir-lang/elixir/pull/10951
+* https://github.com/elixir-lang/elixir/pull/11874
+* https://github.com/elixir-lang/elixir/pull/11881
+* https://github.com/wyeworks/elixir_console/pull/27
+* https://github.com/san650/pretty_print_formatter/pull/17
+
+
 # Articles
 * [Adding E2E tests to an Elixir library](https://www.wyeworks.com/blog/2022/04/21/adding-e2e-tests-to-an-elixir-library/)
 
