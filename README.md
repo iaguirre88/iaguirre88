@@ -11,9 +11,12 @@ people excited about this language.
 
 ## ElixirConf UY
 
-### Building LiveView From Scratch
+### Construyendo LiveView desde cero
 
 🔗 [https://elixirconf.uy/](https://elixirconf.uy/)
+
+📹 [https://www.youtube.com/watch?v=ghmeB0jR1g4](https://www.youtube.com/watch?v=ghmeB0jR1g4)
+(Spanish)
 
 📅 November 2022
 
