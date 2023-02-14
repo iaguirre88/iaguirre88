@@ -9,19 +9,6 @@ people excited about this language.
 
 # Conferences
 
-## ElixirConf UY
-
-### Construyendo LiveView desde cero
-
-🔗 [https://elixirconf.uy/](https://elixirconf.uy/)
-
-📹 [https://www.youtube.com/watch?v=ghmeB0jR1g4](https://www.youtube.com/watch?v=ghmeB0jR1g4)
-(Spanish)
-
-📅 November 2022
-
-📍 Montevideo, Uruguay
-
 ## The Big Elixir
 
 ### Building LiveView From Scratch
@@ -34,6 +21,20 @@ people excited about this language.
 📅 March 2022
 
 📍 New Orleans, USA
+
+
+## ElixirConf UY
+
+### Building LiveView From Scratch (Spanish Version)
+
+🔗 [https://elixirconf.uy/](https://elixirconf.uy/)
+
+📹 [https://www.youtube.com/watch?v=ghmeB0jR1g4](https://www.youtube.com/watch?v=ghmeB0jR1g4)
+(Spanish)
+
+📅 November 2022
+
+📍 Montevideo, Uruguay
 
 # Open Source
 
