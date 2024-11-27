@@ -1,19 +1,14 @@
 # About me
 
-I'm a software developer from Uruguay. I first heard of Elixir at WyeWorks and I
-immediately fell in love with the declarative approach of functional programming
-and its simple concurrence model.
+I'm a passionate software developer from Uruguay with a deep love for Elixir and functional programming. My journey with Elixir began at WyeWorks, where I was captivated by the declarative nature of functional programming and Elixir's elegant concurrency model.
 
-Since then, I've been trying to learn as much about Elixir as possible and make
-people excited about this language.
+Since then, I've been fully immersed in the world of Elixir, constantly learning and sharing my excitement for this language with others. I enjoy building solutions that leverage Elixir's power and simplicity, and I'm always eager to connect with others who share my enthusiasm.
 
 # Conferences
 
-## The Big Elixir
+## The Big Elixir 2022
 
 ### Building LiveView From Scratch
-
-🔗 [https://thebigelixir.com/](https://thebigelixir.com/)
 
 📹 [https://www.youtube.com/watch?v=yEbXsQhxzoU](https://www.youtube.com/watch?v=yEbXsQhxzoU)
 (English)
