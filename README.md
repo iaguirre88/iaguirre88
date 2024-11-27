@@ -22,20 +22,6 @@ people excited about this language.
 
 📍 New Orleans, USA
 
-
-## ElixirConf UY
-
-### Building LiveView From Scratch (Spanish Version)
-
-🔗 [https://elixirconf.uy/](https://elixirconf.uy/)
-
-📹 [https://www.youtube.com/watch?v=ghmeB0jR1g4](https://www.youtube.com/watch?v=ghmeB0jR1g4)
-(Spanish)
-
-📅 November 2022
-
-📍 Montevideo, Uruguay
-
 # Open Source
 
 ## Boom Notifier
