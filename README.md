@@ -27,6 +27,10 @@ contributing to open source, and sharing knowledge through talks and articles.
 * 📅 March 2022
 * 📍 New Orleans, US
 
+# Articles
+
+* [Adding E2E tests to an Elixir library](https://www.wyeworks.com/blog/2022/04/21/adding-e2e-tests-to-an-elixir-library/)
+
 # Open Source
 
 ## Boom Notifier
@@ -53,8 +57,4 @@ computers.
 * [elixir-lang/elixir#11881](https://github.com/elixir-lang/elixir/pull/11881)
 * [wyeworks/elixir_console#27](https://github.com/wyeworks/elixir_console/pull/27)
 * [san650/pretty_print_formatter#17](https://github.com/san650/pretty_print_formatter/pull/17)
-
-# Articles
-
-* [Adding E2E tests to an Elixir library](https://www.wyeworks.com/blog/2022/04/21/adding-e2e-tests-to-an-elixir-library/)
 
